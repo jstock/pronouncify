@@ -1,0 +1,21 @@
+{
+  "author": "Jamey Stock",
+  "id": "pronouncify",
+  "name": "pronouncify",
+  "description": "Quickly lookup pronounciations for words in RemNote",
+  "repoUrl": "https://github.com/jstock/pronouncify",
+  "enableOnMobile": false,
+  "manifestVersion": 1,
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
